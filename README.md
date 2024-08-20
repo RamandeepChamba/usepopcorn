@@ -1,3 +1,16 @@
+# Learned
+
+- PropTypes
+- fixing prop drilling
+  - using component composition
+- How to fetch data / AJAX requests in REACT
+- useEffect hook
+  - add / remove (cleanup) event listeners
+  - cancel ongoing fetch request e.g. fetch request made on input value change
+    - to prevent race conditions
+- custom hooks
+- useRef
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
